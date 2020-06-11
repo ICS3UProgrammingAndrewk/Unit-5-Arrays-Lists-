@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\IntroductionToArraysAndrew\IntroductionToArraysAndrew\bin\Debug\IntroductionToArraysAndrew.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\IntroductionToArraysAndrew\IntroductionToArraysAndrew\bin\Debug\IntroductionToArraysAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\IntroductionToArraysAndrew\IntroductionToArraysAndrew\bin\Debug\IntroductionToArraysAndrew.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\IntroductionToArraysAndrew\IntroductionToArraysAndrew\obj\Debug\IntroductionToArraysAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\IntroductionToArraysAndrew\IntroductionToArraysAndrew\obj\Debug\IntroductionToArraysAndrew.frmIntroductiontoArrays.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\IntroductionToArraysAndrew\IntroductionToArraysAndrew\obj\Debug\IntroductionToArraysAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\IntroductionToArraysAndrew\IntroductionToArraysAndrew\obj\Debug\IntroductionToArraysAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\IntroductionToArraysAndrew\IntroductionToArraysAndrew\obj\Debug\IntroductionToArraysAndrew.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\IntroductionToArraysAndrew\IntroductionToArraysAndrew\obj\Debug\IntroductionToArraysAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\IntroductionToArraysAndrew\IntroductionToArraysAndrew\obj\Debug\IntroductionToArraysAndrew.pdb
