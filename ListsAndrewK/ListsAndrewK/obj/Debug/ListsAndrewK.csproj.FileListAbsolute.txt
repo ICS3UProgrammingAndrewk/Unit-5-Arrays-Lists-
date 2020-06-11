@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\ListsAndrewK\ListsAndrewK\bin\Debug\ListsAndrewK.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\ListsAndrewK\ListsAndrewK\bin\Debug\ListsAndrewK.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\ListsAndrewK\ListsAndrewK\bin\Debug\ListsAndrewK.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\ListsAndrewK\ListsAndrewK\obj\Debug\ListsAndrewK.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\ListsAndrewK\ListsAndrewK\obj\Debug\ListsAndrewK.frmlists.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\ListsAndrewK\ListsAndrewK\obj\Debug\ListsAndrewK.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\ListsAndrewK\ListsAndrewK\obj\Debug\ListsAndrewK.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\ListsAndrewK\ListsAndrewK\obj\Debug\ListsAndrewK.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\ListsAndrewK\ListsAndrewK\obj\Debug\ListsAndrewK.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\ListsAndrewK\ListsAndrewK\obj\Debug\ListsAndrewK.pdb
