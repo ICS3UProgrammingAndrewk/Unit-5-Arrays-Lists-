@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMinValueAndrew\FindMinValueAndrew\bin\Debug\FindMinValueAndrew.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMinValueAndrew\FindMinValueAndrew\bin\Debug\FindMinValueAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMinValueAndrew\FindMinValueAndrew\bin\Debug\FindMinValueAndrew.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMinValueAndrew\FindMinValueAndrew\obj\Debug\FindMinValueAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMinValueAndrew\FindMinValueAndrew\obj\Debug\FindMinValueAndrew.frmFindMinValue.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMinValueAndrew\FindMinValueAndrew\obj\Debug\FindMinValueAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMinValueAndrew\FindMinValueAndrew\obj\Debug\FindMinValueAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMinValueAndrew\FindMinValueAndrew\obj\Debug\FindMinValueAndrew.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMinValueAndrew\FindMinValueAndrew\obj\Debug\FindMinValueAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMinValueAndrew\FindMinValueAndrew\obj\Debug\FindMinValueAndrew.pdb

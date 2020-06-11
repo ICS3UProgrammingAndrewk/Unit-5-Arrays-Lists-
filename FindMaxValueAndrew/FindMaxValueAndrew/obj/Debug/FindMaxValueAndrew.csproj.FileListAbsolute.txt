@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMaxValueAndrew\obj\Debug\FindMaxValueAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMaxValueAndrew\obj\Debug\FindMaxValueAndrew.frmFindMaxValue.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMaxValueAndrew\obj\Debug\FindMaxValueAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMaxValueAndrew\obj\Debug\FindMaxValueAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMaxValueAndrew\obj\Debug\FindMaxValueAndrew.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMaxValueAndrew\bin\Debug\FindMaxValueAndrew.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMaxValueAndrew\bin\Debug\FindMaxValueAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMaxValueAndrew\bin\Debug\FindMaxValueAndrew.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMaxValueAndrew\obj\Debug\FindMaxValueAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\FindMaxValueAndrew\FindMaxValueAndrew\obj\Debug\FindMaxValueAndrew.pdb
