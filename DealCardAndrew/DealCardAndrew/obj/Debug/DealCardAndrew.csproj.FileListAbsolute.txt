@@ -1,0 +1,10 @@
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\DealCardAndrew\DealCardAndrew\bin\Debug\DealCardAndrew.exe.config
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\DealCardAndrew\DealCardAndrew\bin\Debug\DealCardAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\DealCardAndrew\DealCardAndrew\bin\Debug\DealCardAndrew.pdb
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\DealCardAndrew\DealCardAndrew\obj\Debug\DealCardAndrew.csprojAssemblyReference.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\DealCardAndrew\DealCardAndrew\obj\Debug\DealCardAndrew.frmDealCard.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\DealCardAndrew\DealCardAndrew\obj\Debug\DealCardAndrew.Properties.Resources.resources
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\DealCardAndrew\DealCardAndrew\obj\Debug\DealCardAndrew.csproj.GenerateResource.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\DealCardAndrew\DealCardAndrew\obj\Debug\DealCardAndrew.csproj.CoreCompileInputs.cache
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\DealCardAndrew\DealCardAndrew\obj\Debug\DealCardAndrew.exe
+C:\Users\101010101010101\Desktop\ICS3UProgramming\Unit #5 (Arrays & Lists)\DealCardAndrew\DealCardAndrew\obj\Debug\DealCardAndrew.pdb
